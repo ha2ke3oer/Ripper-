@@ -4,7 +4,7 @@ local entity = Creator.createEntity({
     CustomName = "Ripper", -- Custom name of your entity
     Model = "rbxassetid:////12434097362", -- Can be GitHub file or rbxassetid
     Speed = 185, -- Percentage, 100 = default Rush speed
-    DelayTime = 3, -- Time before starting cycles (seconds)
+    DelayTime = 5, -- Time before starting cycles (seconds)
     HeightOffset = 9,
     CanKill = true,
     KillRange = 1000,
